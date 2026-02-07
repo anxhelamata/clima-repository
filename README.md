@@ -1,2 +1,3 @@
 # clima-repository
-Weather App project
+Clima Project
+This project was developed for a competition, where it received an award for its implementation and results.
